@@ -2,7 +2,7 @@ package Entornos_Desarrollo_Tema_8_9;
 
 public interface ITrabajador {
 	
-	// INTERFAZ ITRABAJADOR
+	// INTERFAZ ITRABAJADOR TERMINADA
 	
 	public int getSueldo();
 	
