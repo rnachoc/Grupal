@@ -14,6 +14,5 @@ public class main {
 		profesor1.setAntiguedad(5);
 		profesor1.setDni("57871324E");
 				
-		
 	}
 }
