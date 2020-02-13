@@ -11,22 +11,9 @@ public class main {
 		profesor1.setNombre("Gumelsindo");
 		profesor1.setApellido("Enguema");
 		profesor1.setEdad(23);
-		
-		System.out.println(profesor1);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		profesor1.setAntiguedad(5);
+		profesor1.setDni("57871324E");
+				
 		
 	}
 }
