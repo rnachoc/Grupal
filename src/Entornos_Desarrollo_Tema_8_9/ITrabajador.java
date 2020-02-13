@@ -19,4 +19,5 @@ public interface ITrabajador {
 	//Funcoin para aumentar el sueldo
 	public void subirSueldo(int porcentaje);
 	
+	
 }
