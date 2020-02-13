@@ -128,7 +128,8 @@ public class Profesor implements IProfesor, IPersona, ITrabajador{
 		// TODO Auto-generated method stub
 		
 	}
-
+	
+	//Este es el metodo para verificar si las oposiciones están aprobadas
 	@Override
 	public void aprobarOposiciones() {
 		// TODO Auto-generated method stub
