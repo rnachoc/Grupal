@@ -18,4 +18,5 @@ public interface IProfesor {
 	
 	public void aprobarOposiciones();
 	
+	
 }
