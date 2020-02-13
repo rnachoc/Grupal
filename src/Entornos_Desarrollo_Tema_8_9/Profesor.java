@@ -1,10 +1,7 @@
 package Entornos_Desarrollo_Tema_8_9;
 public class Profesor implements IProfesor, IPersona, ITrabajador{
 
-		// FERFKN
-	
-		// ITRABAJADOR
-	
+
 	@Override
 	public int getSueldo() {
 		// TODO Auto-generated method stub
