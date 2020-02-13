@@ -2,7 +2,7 @@ package Entornos_Desarrollo_Tema_8_9;
 
 public interface IProfesor {
 	
-	// INTERFAZ IPROFESOR
+	// INTERFAZ IPROFESOR TERMINADA
 	
 	public String getUniversidad();
 	
