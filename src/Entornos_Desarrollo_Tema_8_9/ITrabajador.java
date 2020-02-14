@@ -20,4 +20,5 @@ public interface ITrabajador {
 	public void subirSueldo(int porcentaje);
 	
 	
+	
 }
